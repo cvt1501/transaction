@@ -1,0 +1,140 @@
+[
+  {
+    "id": "1001",
+    "this_account": {
+      "id": "2001"
+    },
+    "other_account": {
+      "number": "111-222-333",
+      "holder": {
+        "name": "Alice Johnson"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/alice.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 500.00,
+        "currency": "EUR"
+      },
+      "type": "Transfer",
+      "description": "Monthly savings"
+    }
+  },
+  {
+    "id": "1002",
+    "this_account": {
+      "id": "2002"
+    },
+    "other_account": {
+      "number": "444-555-666",
+      "holder": {
+        "name": "Bob Smith"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/bob.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 75.50,
+        "currency": "GBP"
+      },
+      "type": "Purchase",
+      "description": "Online shopping"
+    }
+  },
+  {
+    "id": "1003",
+    "this_account": {
+      "id": "2003"
+    },
+    "other_account": {
+      "number": "777-888-999",
+      "holder": {
+        "name": "Eve Brown"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/eve.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 1200.00,
+        "currency": "USD"
+      },
+      "type": "Deposit",
+      "description": "Salary payment"
+    }
+  },
+  {
+    "id": "1004",
+    "this_account": {
+      "id": "2004"
+    },
+    "other_account": {
+      "number": "123-987-654",
+      "holder": {
+        "name": "Charlie Wilson"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/charlie.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 45.75,
+        "currency": "CAD"
+      },
+      "type": "Withdrawal",
+      "description": "ATM cash withdrawal"
+    }
+  },
+  {
+    "id": "1005",
+    "this_account": {
+      "id": "2005"
+    },
+    "other_account": {
+      "number": "246-135-790",
+      "holder": {
+        "name": "Grace Taylor"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/grace.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 950.20,
+        "currency": "AUD"
+      },
+      "type": "Payment",
+      "description": "Bill payment"
+    }
+  },
+  {
+    "id": "1060",
+    "this_account": {
+      "id": "2010"
+    },
+    "other_account": {
+      "number": "247-135-790",
+      "holder": {
+        "name": "Ruben Neves"
+      },
+      "metadata": {
+        "image_URL": "https://example.com/ruben.jpg"
+      }
+    },
+    "details": {
+      "value": {
+        "amount": 100.00,
+        "currency": "AUD"
+      },
+      "type": "Payment",
+      "description": "Bill payment"
+    }
+  }
+]
